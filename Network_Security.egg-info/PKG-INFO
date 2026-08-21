@@ -9,5 +9,6 @@ Requires-Dist: pymongo[srv]
 Requires-Dist: pymongo
 Requires-Dist: certifi
 Requires-Dist: scikit-learn
+Requires-Dist: dill
 Dynamic: author
 Dynamic: requires-dist
