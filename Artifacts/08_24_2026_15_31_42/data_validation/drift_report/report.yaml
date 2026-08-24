@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9972361772209787
+DNSRecord:
+  drift_status: false
+  p_value: 0.8713207646126931
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9999745994767623
+Favicon:
+  drift_status: false
+  p_value: 0.9968835466898608
+Google_Index:
+  drift_status: false
+  p_value: 0.9919224549559413
+HTTPS_token:
+  drift_status: false
+  p_value: 0.5721131577781353
+Iframe:
+  drift_status: false
+  p_value: 0.9999999999952338
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9997610012014628
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.9999992399051418
+Page_Rank:
+  drift_status: false
+  p_value: 1.0
+Prefix_Suffix:
+  drift_status: false
+  p_value: 1.0
+Redirect:
+  drift_status: false
+  p_value: 0.999999999973084
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 0.9999999999992943
+RightClick:
+  drift_status: false
+  p_value: 0.999999999999748
+SFH:
+  drift_status: false
+  p_value: 1.0
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9999999932691597
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9993169455931838
+Statistical_report:
+  drift_status: false
+  p_value: 0.9999852314115173
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.9999999881751745
+URL_Length:
+  drift_status: false
+  p_value: 0.9999999962612656
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9933426287191627
+age_of_domain:
+  drift_status: false
+  p_value: 1.0
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9999997772661215
+having_At_Symbol:
+  drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9113528343599856
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.8098241126858364
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9567950838314797
+port:
+  drift_status: false
+  p_value: 0.9999321298038519
+web_traffic:
+  drift_status: true
+  p_value: 0.4649983549053184
