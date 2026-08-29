@@ -14,6 +14,7 @@ import pymongo
 from typing import List
 from sklearn.model_selection import train_test_split
 
+import certifi
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -33,7 +34,7 @@ class DataIngestion:
         try:
             database_name = self.data_ingestion_config.database_name
             collection_name = self.data_ingestion_config.collection_name
-            self.mongo_client = pymongo.MongoClient(MONGO_DB_URL)
+            self.mongo_client = pymongo.MongoClient(MONGO_DB_URL, tlsCAFile=certifi.where())
             collection = self.mongo_client[database_name][collection_name]
             df = pd.DataFrame(list(collection.find()))
 
